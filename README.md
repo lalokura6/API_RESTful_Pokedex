@@ -11,12 +11,12 @@ Iniciar servidor: npm start (nodemon)
 
 2 . 🚀 Endpoints: 
 
-Registro: POST /auth/register
-Login: POST /auth/login
-Listar Pokémon: GET /pokemon
-Detalles Pokémon: GET /pokemon/:id
-Mis Pokémon: GET /pokemon/trainer/mypokemons
-Crear Pokémon: POST /pokemon
-Actualizar Pokémon: PUT /pokemon/:id
-Eliminar Pokémon: DELETE /pokemon/:id
+- Registro: POST /auth/register
+- Login: POST /auth/login
+- Listar Pokémon: GET /pokemon
+- Detalles Pokémon: GET /pokemon/:id
+- Mis Pokémon: GET /pokemon/trainer/mypokemons
+- Crear Pokémon: POST /pokemon
+- Actualizar Pokémon: PUT /pokemon/:id
+- Eliminar Pokémon: DELETE /pokemon/:id
 
