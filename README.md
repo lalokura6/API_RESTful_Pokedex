@@ -4,10 +4,10 @@ Aplicación creada con JAVASCRIPT y db-local
 
 1. 📝 Pasos para Ejecutar:
 
-Clonar el repositorio
-Instalar dependencias: npm install
-Configurar variables de entorno (opcional)
-Iniciar servidor: npm start (nodemon)
+- Clonar el repositorio
+- Instalar dependencias: npm install
+- Configurar variables de entorno (opcional)
+- Iniciar servidor: npm start (nodemon)
 
 2 . 🚀 Endpoints: 
 
