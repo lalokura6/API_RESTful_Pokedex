@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": 1733781356280,
+      "username": "lalokura",
+      "password": "$2a$10$8qM9aBUx549Gy8JMUKzB9.FCVM8kywPx/Xx8LBCwuOBldXtYXuyKu",
+      "role": "trainer"
+    },
+    {
+      "id": 1733784159931,
+      "username": "lalokura2",
+      "password": "$2a$10$/AKlzUa4GEP8vn4YlIGH2ONOVU/taUh8LPVUbUD2zzbWx1ichXNAK",
+      "role": "trainer"
+    }
+  ],
+  "pokemons": [
+    {
+      "id": 1733781554362,
+      "name": "Ivysaur",
+      "type": [
+        "Grass",
+        "Poison"
+      ],
+      "level": "",
+      "trainerId": 1733781356280,
+      "createdAt": "2024-12-09T21:59:14.362Z"
+    },
+    {
+      "id": 1733781638835,
+      "name": "Venusaur",
+      "type": [
+        "Grass",
+        "Poison"
+      ],
+      "level": "5",
+      "trainerId": 1733781356280,
+      "createdAt": "2024-12-09T22:00:38.835Z"
+    }
+  ]
+}
