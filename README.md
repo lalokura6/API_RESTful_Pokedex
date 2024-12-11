@@ -29,11 +29,13 @@ Aplicación creada con JAVASCRIPT y db-local
   }
 
 
-4. Copiar y completar para crear un pokemon:
+4. Copiar y completar para crear un pokemon (trainerId y createdAt dejar sin completar "") :
 
-   {
-      "name": "",
-      "type": "",
-      "level": "",
-      "createdAt": ""
-    }
+  {
+    "id": "",
+    "name": "",
+    "type": "",
+    "level": "",
+    "trainerId": ""
+    "createdAt": ""
+}
